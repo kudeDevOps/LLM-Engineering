@@ -1,6 +1,16 @@
 # Topic 1. LLM API Basics
+What is LLM ?  Large Language Model (in tech/AI):
+This is the most common meaning in the context of artificial intelligence and natural language processing.
 
-**The course is under construction, with new materials appearing regularly.**
+What it is: A type of AI model trained on huge amounts of text data to understand and generate human-like language.
+
+Examples: GPT-4, GPT-4o, Claude, Gemini, LLaMA.
+
+Uses: Chatbots, code generation, summarization, translation, writing help, customer support, etc.
+
+
+
+** new materials appearing regularly.**
 
 **Subscribe for updates and make sure you don’t miss anything: [Stay updated](https://academy.nebius.com/llm-engineering-essentials/update/)**
 
