@@ -12,8 +12,7 @@ Uses: Chatbots, code generation, summarization, translation, writing help, custo
 
 ** new materials appearing regularly.**
 
-**Subscribe for updates and make sure you don’t miss anything: [Stay updated](https://academy.nebius.com/llm-engineering-essentials/update/)**
-
+**
 ## Contents
 
 * **1.1. Intro to LLM APIs** [colab link](https://colab.research.google.com/github/Nebius-Academy/LLM-Engineering-Essentials/blob/main/topic1/1.1_intro_to_llm_apis.ipynb)
